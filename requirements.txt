@@ -6,7 +6,8 @@ python-dotenv
 scikit-learn
 PyPDF2
 faiss-cpu
-faiss-gpu
+# faiss-gpu
+sentence-transformers
 # google-generativeai
 # langchain-openai
 # langchain_pinecone
